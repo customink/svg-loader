@@ -1,6 +1,6 @@
 # svg loader for webpack
 
-This loader is a combination of the [file-loader](https://github.com/webpack/file-loader) and the [raw-loader](https://github.com/webpack/raw-loader). This loader allows you to utilize an SVG file in an embedded or inline manor.
+This loader is a combination of the [file-loader](https://github.com/webpack/file-loader) and the [raw-loader](https://github.com/webpack/raw-loader). This loader allows you to utilize an SVG file in an embedded or inline manner.
 
 ## Usage
 
